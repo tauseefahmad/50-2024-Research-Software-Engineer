@@ -1,16 +1,16 @@
 # Project
 Two Heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
 # Bert
-# Brief Explanation
-## Filtering: 
+## Brief Explanation
+### Filtering: 
 Embedding-based filtering is used to capture semantic context beyond keyword matching.
-## Classification: 
+### Classification: 
 Heuristic-based classification identifies if the paper focuses on text mining, computer vision, or both.
-## Method Extraction: 
+### Method Extraction: 
 Specific methods like CNN and transformers are extracted using regular expressions.
-# Results Summary
+## Results Summary
 The results have been saved in filtered_and_classified_papers.csv.
-# Statistics:
+## Statistics:
  Research Paper Classification Summary
 
  Total Relevant Papers
