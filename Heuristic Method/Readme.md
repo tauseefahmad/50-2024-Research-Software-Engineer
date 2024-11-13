@@ -1,13 +1,16 @@
 # Project
-Two Heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
-# Bert
-## Brief Explanation
+The specific goal is to identify papers that implement deep learning neural network-based solutions in the fields of virology and epidemiology.
+As the LLM require many hours of computation, so after trying LLM based approached, i implemented the heuristic based approch. Two heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
+
+## Brief Explanation of Steps 
 ### Filtering: 
 Embedding-based filtering is used to capture semantic context beyond keyword matching.
 ### Classification: 
 Heuristic-based classification identifies if the paper focuses on text mining, computer vision, or both.
 ### Method Extraction: 
 Specific methods like CNN and transformers are extracted using regular expressions.
+
+# Bert
 ## Results Summary
 The results have been saved in filtered_and_classified_papers.csv.
 ## Statistics:
@@ -49,6 +52,9 @@ The results have been saved in filtered_and_classified_papers.csv.
 
 
 # Deberta
+## Results Summary
+The results have been saved in filtered_and_classified_papers.csv.
+## Statistics:
 
 
 
