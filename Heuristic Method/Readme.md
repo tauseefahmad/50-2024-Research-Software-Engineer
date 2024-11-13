@@ -1,4 +1,4 @@
-#Project
+# Project
 Two Heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
 # Bert
 # Brief Explanation
@@ -9,8 +9,8 @@ Heuristic-based classification identifies if the paper focuses on text mining, c
 ## Method Extraction: 
 Specific methods like CNN and transformers are extracted using regular expressions.
 # Results Summary
-The filtered_and_classified_papers.csv has the results.
-#Statistics:
+The results have been saved in filtered_and_classified_papers.csv.
+# Statistics:
 Total Relevant Papers: 11221
 
 Classification Counts:
