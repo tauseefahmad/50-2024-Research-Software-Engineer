@@ -1,6 +1,6 @@
 # Project
 The specific goal is to identify papers that implement deep learning neural network-based solutions in the fields of virology and epidemiology.
-As the LLM require many hours of computation, so after trying LLM based approached, i implemented the heuristic based approch. Two heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
+As the LLM require many hours of computation, so after trying LLM based approach, i implemented the heuristic based approch. Two heuristic based approches were used to classify the papers. One uses Bert and the second one uses Deberta.
 
 ## Brief Explanation of Steps 
 ### Filtering: 
