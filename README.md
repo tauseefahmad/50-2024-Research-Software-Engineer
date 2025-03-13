@@ -1,4 +1,3 @@
-# 50-2024-Research-Software-Engineer
 
 # Project
 The specific goal is to identify papers that implement deep learning neural network-based solutions in the fields of virology and epidemiology.
